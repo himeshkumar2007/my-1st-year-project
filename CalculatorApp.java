@@ -17,7 +17,7 @@ public class CalculatorApp implements ActionListener {
     JRadioButton offRadioButton = new JRadioButton("off");
     JButton buttonZero = new JButton("0");
     JButton buttonOne = new JButton("1");
-    JButton buttonTwo = new JButton("2");
+    JButton buttonTwo = new JButton("20");
     JButton buttonThree = new JButton("3");
     JButton buttonFour = new JButton("4");
     JButton buttonFive = new JButton("5");
